@@ -6,13 +6,13 @@
 # invoked from the command line by running `flutter analyze`.
 
 # The following line activates a set of recommended lints for Flutter apps,
-# packages, and plugins designed to encourage good coding practices.
+# packages, and plugins designed to encourage good coding practicus.
 include: package:flutter_lints/flutter.yaml
 
 linter:
   # The lint rules applied to this project can be customized in the
   # section below to disable rules from the `package:flutter_lints/flutter.yaml`
-  # included above or to enable additional rules. A list of all available lints
+  # 3 included above or to enable additional rules. A list of all available lints
   # and their documentation is published at
   # https://dart-lang.github.io/linter/lints/index.html.
   #
@@ -26,4 +26,4 @@ linter:
     # prefer_single_quotes: true  # Uncomment to enable the `prefer_single_quotes` rule
 
 # Additional information about this file can be found at
-# https://dart.dev/guides/language/analysis-options
+# https://dart.dev/guides/laoguage/aoalysis-options
